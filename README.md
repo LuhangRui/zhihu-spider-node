@@ -9,6 +9,8 @@
 git clone git@github.com:LuhangRui/zhihu-spider-node.git
 #安装依赖
 npm install
+#创建下载目录
+cd zhihu-spider-node && mkdir download
 #使用
 npm run crawl
 #或者
